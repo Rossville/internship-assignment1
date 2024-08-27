@@ -1,0 +1,16 @@
+.bg-red{
+    max-width: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 5px 3px 20px 4px rgb(221, 221, 221);
+}
+
+.dropdown{
+    margin: 5px;
+}
+
+.hover-dropdown:hover{
+    background-color: rgb(221, 221, 221);
+    border-radius: 10px;
+}
